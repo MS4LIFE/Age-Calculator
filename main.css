@@ -51,6 +51,7 @@ input[type="date"]{
     background-color: #0d8bf0;
     transition: background-color 0.3s ease;
     color: white;
+    cursor: pointer;
 }
 #calculate-btn:hover{
     background-color: #2196f3;
